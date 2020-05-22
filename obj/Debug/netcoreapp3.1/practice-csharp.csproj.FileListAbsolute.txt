@@ -1,0 +1,13 @@
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\bin\Debug\netcoreapp3.1\practice-csharp.exe
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\bin\Debug\netcoreapp3.1\practice-csharp.deps.json
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\bin\Debug\netcoreapp3.1\practice-csharp.runtimeconfig.json
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\bin\Debug\netcoreapp3.1\practice-csharp.runtimeconfig.dev.json
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\bin\Debug\netcoreapp3.1\practice-csharp.dll
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\bin\Debug\netcoreapp3.1\practice-csharp.pdb
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\obj\Debug\netcoreapp3.1\practice-csharp.csprojAssemblyReference.cache
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\obj\Debug\netcoreapp3.1\practice-csharp.AssemblyInfoInputs.cache
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\obj\Debug\netcoreapp3.1\practice-csharp.AssemblyInfo.cs
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\obj\Debug\netcoreapp3.1\practice-csharp.csproj.CoreCompileInputs.cache
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\obj\Debug\netcoreapp3.1\practice-csharp.dll
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\obj\Debug\netcoreapp3.1\practice-csharp.pdb
+E:\ho\dev\IDE\VSCode-win32-x64-1.44.0\workspace\practice-csharp\obj\Debug\netcoreapp3.1\practice-csharp.genruntimeconfig.cache
